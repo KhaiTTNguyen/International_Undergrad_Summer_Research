@@ -49,3 +49,6 @@ https://uh.edu/pre-health/pre-health-resources/summer-programs/summer-programs-f
 		
     
 https://www.rochester.edu/college/ugresearch/opportunities/summer-international-students.html		
+
+
+https://careercenter.umich.edu/article/health-science-research-summer-programs-open
