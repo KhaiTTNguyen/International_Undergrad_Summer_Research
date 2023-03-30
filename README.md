@@ -3,8 +3,6 @@ Cumulative list of opportunities for future scientists/engineers who are current
 
 https://seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu/program-details		
 Wyss & Roland Institute only)		
-
-Emory list https://college.emory.edu/undergraduate-research/opportunity/opportunity-finder.html
 		
 Stanford Med Imaging		
 https://med.stanford.edu/rsl/education/2022-research-experience-for-undergrads--reu-1.html		
@@ -55,3 +53,5 @@ https://www.rochester.edu/college/ugresearch/opportunities/summer-international-
 https://careercenter.umich.edu/article/health-science-research-summer-programs-open
 
 Penn Medicine Division of Gastroenterology https://www.pennmedicine.org/departments-and-centers/department-of-medicine/divisions/gastroenterology/education-and-training/undergraduate-student-scholars-program
+
+Emory mixed-list https://college.emory.edu/undergraduate-research/opportunity/opportunity-finder.html
