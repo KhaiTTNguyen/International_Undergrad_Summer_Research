@@ -25,7 +25,7 @@ MIT Bio
 https://biology.mit.edu/outreach/msrpbio/		
 		
 		
-Stanford Cardiovasculaf		
+Stanford Cardiovascular		
 https://med.stanford.edu/cvi/education/cvi-summer-research-program.html		
 		
 		
@@ -52,3 +52,5 @@ https://www.rochester.edu/college/ugresearch/opportunities/summer-international-
 
 
 https://careercenter.umich.edu/article/health-science-research-summer-programs-open
+
+Penn Medicine Division of Gastroenterology https://www.pennmedicine.org/departments-and-centers/department-of-medicine/divisions/gastroenterology/education-and-training/undergraduate-student-scholars-program
