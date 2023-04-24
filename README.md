@@ -59,3 +59,11 @@ https://careercenter.umich.edu/article/health-science-research-summer-programs-o
 Penn Medicine Division of Gastroenterology https://www.pennmedicine.org/departments-and-centers/department-of-medicine/divisions/gastroenterology/education-and-training/undergraduate-student-scholars-program
 
 Emory mixed-list https://college.emory.edu/undergraduate-research/opportunity/opportunity-finder.html
+
+
+
+### For those interested in the MD/PhD program
+* [GRADUATE PARTNERSHIPS PROGRAM (GPP)](https://www.training.nih.gov/programs/gpp)
+* https://www.training.nih.gov/programs/gpp/InstitutionalPartnerships
+* https://www.training.nih.gov/programs/gpp/IndividualPartnership
+
