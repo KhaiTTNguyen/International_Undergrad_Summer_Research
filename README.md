@@ -1,5 +1,5 @@
 # International_Undergrad_Summer_Research
-Cumulative list of opportunities for future scientists/engineers who are currently international students at US college.
+Cumulative list of opportunities for future scientists/engineers who are currently international students at US colleges.
 
 https://seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu/program-details		
 Wyss & Roland Institute only)		
@@ -70,3 +70,4 @@ Emory mixed-list https://college.emory.edu/undergraduate-research/opportunity/op
 
 ### Unfiltered
 https://www.vanderbilt.edu/hpao/research/summer.php
+https://www.montgomerycollege.edu/international-students/current-students/internships-accept-international-students.html
